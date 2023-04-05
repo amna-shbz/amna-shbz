@@ -1,3 +1,4 @@
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 ### Hi there 👋
 - 🔭 I’m currently on an 8-month full-stack development training path as Dev Degree intern at Shopify
 - 📝 On the training path, I've learned software engineering fundamentals in Javascript, Rails, React, GraphQL, Ruby, SQL, and Typescript
