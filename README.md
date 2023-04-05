@@ -8,3 +8,6 @@
 ### Skills:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,react,py,rails,ruby,java,mysql,figma)](https://skills.thijs.gg)
+
+### Let's connect 🤝
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
