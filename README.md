@@ -5,3 +5,5 @@
 - 💻 I’m an incoming React-Native Developer on Shopify's Shop app
 - 📫 How to reach me: amna.shahbaz@shopify.com
 
+Skills:
+JavaScript Ruby Python HTML5 CSS3 Rails React MySQL GraphQL Typescript
