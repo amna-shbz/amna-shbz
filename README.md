@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently on an 8-month full-stack development training path as Dev Degree intern at Shopify
-- 📝 On the training path, I've learned software engineering fundamentals in Javascript, Rails, React, GraphQL, Ruby, SQL, and Typescript
-- 🌱 I’m currently learning full-stack development in Ruby on Rails
-- 💻 I’m an incoming React-Native Developer on Shopify's Shop app
+- 🔭 I’m a Front-end Mobile Developer Intern on Shopify's Shop app
+- 💻 As an intern in Shopify's Dev Degree program, I've learned software engineering fundamentals in Javascript, Rails, React, GraphQL, Ruby, SQL, and Typescript
+- 🌱 I’m in my second year of university, pursuing a degree in computer science
 - 📫 How to reach me: amna.shahbaz@shopify.com
 
 ### Skills:
